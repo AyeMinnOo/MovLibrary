@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme.Base">
+        <item name="android:windowTranslucentStatus">true</item>
+        <item name="android:windowTranslucentNavigation">false</item>
+    </style>
+
+    <style name="AppTheme.Base.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="NoActionbarTheme" parent="AppTheme.Base.NoActionBar">
+        <item name="android:windowTranslucentStatus">false</item>
+    </style>
+
+    <style name="MovieDetailTheme" parent="NoActionbarTheme">
+        <item name="android:windowContentTransitions">true</item>
+    </style>
+
+</resources>

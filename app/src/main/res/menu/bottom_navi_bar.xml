@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+            android:id="@+id/action_upcoming"
+            android:icon="@drawable/ic_upcoming"
+            android:title="@string/navi_upcoming"/>
+
+    <item
+            android:id="@+id/action_playing"
+            android:icon="@drawable/ic_movie"
+            android:title="@string/navi_playing"/>
+
+    <item
+            android:id="@+id/action_serie"
+            android:icon="@drawable/ic_tvserie"
+            android:title="@string/navi_tvserie"/>
+
+    <item
+            android:id="@+id/action_top"
+            android:icon="@drawable/ic_top_rated"
+            android:title="@string/navi_top_rated"/>
+
+    <item
+            android:id="@+id/action_popular"
+            android:icon="@drawable/ic_favorite"
+            android:title="@string/navi_popular"/>
+
+</menu>

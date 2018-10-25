@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">MovLibrary</string>
+
+    <string name="empty_directory">Empty Directory</string>
+    <string name="storage_removed">Storage was removed or unmounted.</string>
+    <string name="choose_file">Select a file</string>
+    <string name="error_selecting_file">Error selecting File</string>
+    <string name="internal_storage">Internal storage</string>
+
+    <string name="navi_upcoming">Upcoming Movies</string>
+    <string name="navi_playing">Now Playing Movies</string>
+    <string name="navi_tvserie">Popular Tv Series</string>
+    <string name="navi_top_rated">Top Rated Movies</string>
+    <string name="navi_popular">Popular Movies</string>
+
+    <string name="alert_network">Network Error</string>
+
+    <string name="action_search">Search</string>
+    <string name="hint_search_movie">Search Movies</string>
+
+</resources>
